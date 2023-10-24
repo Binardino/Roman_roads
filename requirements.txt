@@ -2,3 +2,8 @@ pandas==1.4.2
 shapely==1.7.1
 geopandas==0.9.0
 matplotlib==3.7.1
+osmnx==1.0.1
+networkx==2.5
+alphashape==1.1.0
+descartes
+h3==3.7.3
